@@ -1,0 +1,25 @@
+# Claude Code 로컬 설정
+.claude/
+
+# 내부 문서
+todo.md
+CLAUDE.md
+agent-progress.md
+need.md
+REVIEW.txt
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 에디터
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# 로컬 임시
+*.local
+*.log
